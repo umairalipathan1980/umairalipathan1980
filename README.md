@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Umair Ali Khan
 - 👀 I’m interested in machine learning and computer vision
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on machine learning
 - 📫 How to reach me umairali.khan@haaga-helia.fi
 
 <!---
