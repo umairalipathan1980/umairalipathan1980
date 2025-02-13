@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Umair Ali Khan
-- 👀 I’m interested in machine learning and computer vision
+- 👀 I work as a senior researcher and AI advisor in Haaga-Helia University of Applied Sciences in Helsinki. My work focuses on applied AI, machine learning, and generative AI. In particular, I focus on information extraction and processing using large language models, retrieval augment generation methods, and AI agents. 
 - 📫 How to reach me umairali.khan@haaga-helia.fi
 
 <!---
