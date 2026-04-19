@@ -1,5 +1,5 @@
 - Hi, I'm **Umair Ali Khan**
-- 👀 I work as a **Senior Researcher and AI Advisor** at Haaga-Helia University of Applied Sciences in Helsinki.
+- I work as a **Senior Researcher and AI Advisor** at Haaga-Helia University of Applied Sciences in Helsinki. 
 
 - **My Key Competences:**
   - **AI/ML Development:** Build, fine-tune, retrain, and deploy AI/ML models; model evaluation, testing, and optimization (NLP, image processing, computer vision)
