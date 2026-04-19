@@ -1,5 +1,11 @@
 - 👋 Hi, I’m Umair Ali Khan
-- 👀 I work as a senior researcher and AI advisor in Haaga-Helia University of Applied Sciences in Helsinki. My work focuses on applied AI, machine learning, and generative AI. In particular, I focus on information extraction and processing using large language models, retrieval augment generation methods, and AI agents. 
+- 👀 I work as a senior researcher and AI advisor in Haaga-Helia University of Applied Sciences in Helsinki.
+- 
+- **My Key Competences:**
+- **AI/ML Development:** Build, fine-tune, retrain, and deploy AI/ML models; model evaluation, testing, and optimization (NLP, image processing, computer vision)
+- **Generative AI:** LLMs, RAG, AI agents, MCP, GenAI frameworks (LangChain, LlamaIndex, LangGraph, OpenAI SDK, Claude SDK)
+- **AI solution development:** PoC/MVP, Full-stack development (Python+FastAPI, React, Cloud Development)
+
 - 📫 How to reach me umairali.khan@haaga-helia.fi
 
 <!---
